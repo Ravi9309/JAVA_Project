@@ -1,1 +1,1 @@
-# JAVA_Project
+This is Employee Registration Project
